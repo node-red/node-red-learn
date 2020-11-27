@@ -1,0 +1,19 @@
+{
+  "name": "node-red-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@node-red/editor-api": "^1.2.6",
+    "@node-red/editor-client": "^1.2.6",
+    "@node-red/util": "^1.2.6",
+    "@node-red/nodes": "^1.2.6",
+    "express": "^4.17.1"
+  }
+}
