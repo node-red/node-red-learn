@@ -14,6 +14,7 @@
     "@node-red/editor-client": "^1.2.6",
     "@node-red/util": "^1.2.6",
     "@node-red/nodes": "^1.2.6",
+    "@node-red/registry": "^1.2.6",
     "express": "^4.17.1"
   }
 }
